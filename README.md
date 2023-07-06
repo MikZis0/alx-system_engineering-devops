@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-writing scripts
+print working directory file
